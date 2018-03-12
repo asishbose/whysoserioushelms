@@ -1,4 +1,0 @@
-dependencies:
-- name: cemnovaconfigmap
-  version: "1.0.0"
-  repository: "file://../cemnovaconfigmap"
