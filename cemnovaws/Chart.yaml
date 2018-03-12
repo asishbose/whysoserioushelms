@@ -1,0 +1,19 @@
+apiVersion: v1
+appVersion: "1.0"
+description: This constitutes the complete cem webservices under the current CA4CI Tomcat
+name: cemnovaws
+version: 1.0.0
+keywords:
+ - tomcat
+ - java
+ - http
+ - sai webservices
+ - sqm webservice 
+ - tnp webservice
+home: https://confluence.int.net.nokia.com/x/fw59Ig
+icon: https://confluence.int.net.nokia.com/download/thumbnails/578621055/cemnovaws.JPG
+sources:
+maintainers:
+ - name: cem nova dev
+   email: asish.bose@nokia.com
+engine: gotpl
